@@ -23,7 +23,7 @@ classifiers = [
 dependencies = [
   "aiofiles",
   "aiohttp <4",
-  "aiosqlite <=0.17.0",
+  "aiosqlite <=0.21.0",
   "asyncprawcore >=2.4, <3",
   "update_checker >=0.18"
 ]
